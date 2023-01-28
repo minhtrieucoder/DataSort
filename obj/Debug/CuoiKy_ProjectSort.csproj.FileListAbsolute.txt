@@ -1,0 +1,23 @@
+C:\Users\minhTrieu\Desktop\University\Năm 2 - kì 1\Lap trinh huong doi tuong\OnTapCuoiKy\CuoiKy_ProjectSort\bin\Debug\CuoiKy_ProjectSort.exe.config
+C:\Users\minhTrieu\Desktop\University\Năm 2 - kì 1\Lap trinh huong doi tuong\OnTapCuoiKy\CuoiKy_ProjectSort\bin\Debug\CuoiKy_ProjectSort.exe
+C:\Users\minhTrieu\Desktop\University\Năm 2 - kì 1\Lap trinh huong doi tuong\OnTapCuoiKy\CuoiKy_ProjectSort\bin\Debug\CuoiKy_ProjectSort.pdb
+C:\Users\minhTrieu\Desktop\University\Năm 2 - kì 1\Lap trinh huong doi tuong\OnTapCuoiKy\CuoiKy_ProjectSort\obj\Debug\CuoiKy_ProjectSort.csproj.AssemblyReference.cache
+C:\Users\minhTrieu\Desktop\University\Năm 2 - kì 1\Lap trinh huong doi tuong\OnTapCuoiKy\CuoiKy_ProjectSort\obj\Debug\CuoiKy_ProjectSort.frm_control.resources
+C:\Users\minhTrieu\Desktop\University\Năm 2 - kì 1\Lap trinh huong doi tuong\OnTapCuoiKy\CuoiKy_ProjectSort\obj\Debug\CuoiKy_ProjectSort.Properties.Resources.resources
+C:\Users\minhTrieu\Desktop\University\Năm 2 - kì 1\Lap trinh huong doi tuong\OnTapCuoiKy\CuoiKy_ProjectSort\obj\Debug\CuoiKy_ProjectSort.csproj.GenerateResource.cache
+C:\Users\minhTrieu\Desktop\University\Năm 2 - kì 1\Lap trinh huong doi tuong\OnTapCuoiKy\CuoiKy_ProjectSort\obj\Debug\CuoiKy_ProjectSort.csproj.CoreCompileInputs.cache
+C:\Users\minhTrieu\Desktop\University\Năm 2 - kì 1\Lap trinh huong doi tuong\OnTapCuoiKy\CuoiKy_ProjectSort\obj\Debug\CuoiKy_ProjectSort.exe
+C:\Users\minhTrieu\Desktop\University\Năm 2 - kì 1\Lap trinh huong doi tuong\OnTapCuoiKy\CuoiKy_ProjectSort\obj\Debug\CuoiKy_ProjectSort.pdb
+C:\Users\minhTrieu\Desktop\University\Năm 2 - kì 1\Lap trinh huong doi tuong\OnTapCuoiKy\CuoiKy_ProjectSort\obj\Debug\CuoiKy_ProjectSort.frm_Main.resources
+C:\Users\minhTrieu\Desktop\Project\Winform\Learn\CauTrucDuLieu_SapXepDuLieu\CuoiKy_ProjectSort\bin\Debug\CuoiKy_ProjectSort.exe.config
+C:\Users\minhTrieu\Desktop\Project\Winform\Learn\CauTrucDuLieu_SapXepDuLieu\CuoiKy_ProjectSort\bin\Debug\CuoiKy_ProjectSort.exe
+C:\Users\minhTrieu\Desktop\Project\Winform\Learn\CauTrucDuLieu_SapXepDuLieu\CuoiKy_ProjectSort\bin\Debug\CuoiKy_ProjectSort.pdb
+C:\Users\minhTrieu\Desktop\Project\Winform\Learn\CauTrucDuLieu_SapXepDuLieu\CuoiKy_ProjectSort\obj\Debug\CuoiKy_ProjectSort.csproj.AssemblyReference.cache
+C:\Users\minhTrieu\Desktop\Project\Winform\Learn\CauTrucDuLieu_SapXepDuLieu\CuoiKy_ProjectSort\obj\Debug\CuoiKy_ProjectSort.csproj.SuggestedBindingRedirects.cache
+C:\Users\minhTrieu\Desktop\Project\Winform\Learn\CauTrucDuLieu_SapXepDuLieu\CuoiKy_ProjectSort\obj\Debug\CuoiKy_ProjectSort.frm_Control.resources
+C:\Users\minhTrieu\Desktop\Project\Winform\Learn\CauTrucDuLieu_SapXepDuLieu\CuoiKy_ProjectSort\obj\Debug\CuoiKy_ProjectSort.frm_Main.resources
+C:\Users\minhTrieu\Desktop\Project\Winform\Learn\CauTrucDuLieu_SapXepDuLieu\CuoiKy_ProjectSort\obj\Debug\CuoiKy_ProjectSort.Properties.Resources.resources
+C:\Users\minhTrieu\Desktop\Project\Winform\Learn\CauTrucDuLieu_SapXepDuLieu\CuoiKy_ProjectSort\obj\Debug\CuoiKy_ProjectSort.csproj.GenerateResource.cache
+C:\Users\minhTrieu\Desktop\Project\Winform\Learn\CauTrucDuLieu_SapXepDuLieu\CuoiKy_ProjectSort\obj\Debug\CuoiKy_ProjectSort.csproj.CoreCompileInputs.cache
+C:\Users\minhTrieu\Desktop\Project\Winform\Learn\CauTrucDuLieu_SapXepDuLieu\CuoiKy_ProjectSort\obj\Debug\CuoiKy_ProjectSort.exe
+C:\Users\minhTrieu\Desktop\Project\Winform\Learn\CauTrucDuLieu_SapXepDuLieu\CuoiKy_ProjectSort\obj\Debug\CuoiKy_ProjectSort.pdb
