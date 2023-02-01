@@ -1,5 +1,5 @@
 # DataSort
-
+Tool DataSort - Công cụ sắp xếp dữ liệu.
 - Video demo: https://youtu.be/FZVSd-SMY-o
 - Download: https://drive.google.com/file/d/113KxNVMGw5yh-rC_1le1XEbzhQoeofxC/view?usp=share_link 
 - Data sorting tool là một công cụ sắp xếp dữ liệu sử dụng các thuật toán InterchangeSort, SelectionSort, BubbleSort và InsertionSort. Nó cung cấp chức năng sắp xếp dữ liệu, xuất kết quả ra file và lưu vào thiết bị cục bộ.
